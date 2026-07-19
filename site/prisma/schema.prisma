@@ -1,0 +1,351 @@
+// Prisma schema — Lumeducação
+// docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// ---------- Auth (NextAuth.js Prisma Adapter) ----------
+
+enum UserRole {
+  CUSTOMER
+  ADMIN
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String    @unique
+  emailVerified DateTime?
+  image         String?
+  role          UserRole  @default(CUSTOMER)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  accounts     Account[]
+  sessions     Session[]
+  orders       Order[]
+  entitlements Entitlement[]
+
+  @@map("users")
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@map("accounts")
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("sessions")
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+  @@map("verification_tokens")
+}
+
+// ---------- Catálogo ----------
+
+enum Stage {
+  EDUCACAO_INFANTIL
+  FUNDAMENTAL_1
+}
+
+enum BrandColor {
+  YELLOW
+  ORANGE
+  TURQUOISE
+  PINK
+}
+
+// Séries: Pré I, Pré II, 1º ao 5º ano do Fundamental (taxonomia fixa do negócio)
+model Category {
+  id         String     @id @default(cuid())
+  slug       String     @unique
+  label      String
+  shortLabel String
+  stage      Stage
+  color      BrandColor
+  sortOrder  Int        @default(0)
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
+
+  products Product[]
+
+  @@map("categories")
+}
+
+// Matéria/tema dentro de cada série: alfabetização, matemática, ciências, etc.
+model Subject {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  name      String
+  sortOrder Int      @default(0)
+  createdAt DateTime @default(now())
+
+  products ProductSubject[]
+
+  @@map("subjects")
+}
+
+enum ProductStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}
+
+enum ProductType {
+  SINGLE
+  BUNDLE
+}
+
+enum FileKind {
+  PDF
+  EDITABLE
+  IMAGE
+  VIDEO
+  OTHER
+}
+
+model Product {
+  id          String        @id @default(cuid())
+  slug        String        @unique
+  title       String
+  description String        @db.Text
+  type        ProductType   @default(SINGLE)
+  status      ProductStatus @default(DRAFT)
+
+  categoryId String?
+  category   Category? @relation(fields: [categoryId], references: [id])
+
+  priceCents          Int
+  compareAtPriceCents Int?
+
+  coverImageUrl    String?
+  previewImageUrls String[] @default([])
+
+  // Rastreabilidade da origem (GitHub / Google Drive) usada na importação/catalogação
+  sourceRepoPath      String?
+  sourceDriveFolderId String?
+
+  // Observações geradas automaticamente pela importação (ex: séries alternativas
+  // detectadas no texto, para revisão manual antes de publicar)
+  importNotes String? @db.Text
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  files    ProductFile[]
+  subjects ProductSubject[]
+
+  // Itens que compõem este produto quando type = BUNDLE
+  bundleItems   BundleItem[] @relation("BundleToItems")
+  // Bundles nos quais este produto aparece como item
+  partOfBundles BundleItem[] @relation("ItemToBundles")
+
+  orderItems   OrderItem[]
+  entitlements Entitlement[]
+
+  @@index([categoryId])
+  @@index([status])
+  @@map("products")
+}
+
+model ProductSubject {
+  productId String
+  subjectId String
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  subject Subject @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+
+  @@id([productId, subjectId])
+  @@map("product_subjects")
+}
+
+model BundleItem {
+  id              String @id @default(cuid())
+  bundleProductId String
+  itemProductId   String
+  quantity        Int    @default(1)
+
+  bundleProduct Product @relation("BundleToItems", fields: [bundleProductId], references: [id], onDelete: Cascade)
+  itemProduct   Product @relation("ItemToBundles", fields: [itemProductId], references: [id], onDelete: Cascade)
+
+  @@unique([bundleProductId, itemProductId])
+  @@map("bundle_items")
+}
+
+// Arquivo físico do material. driveFileId aponta para a origem (Google Drive,
+// somente leitura); blobKey só é preenchido depois de sincronizado para o
+// Vercel Blob e nunca é exposto publicamente antes da compra confirmada.
+model ProductFile {
+  id        String  @id @default(cuid())
+  productId String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  kind      FileKind
+  fileName  String
+  mimeType  String?
+  sizeBytes BigInt?
+
+  // Caminho relativo à raiz de materiais (pasta lumeducacao/), usado pelo
+  // script de sincronização para localizar o arquivo original sem ambiguidade
+  sourcePath String?
+
+  driveFileId String?
+  blobKey     String?
+  checksum    String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([productId])
+  @@map("product_files")
+}
+
+// ---------- Pedidos e pagamento ----------
+
+enum OrderStatus {
+  PENDING
+  PAID
+  FAILED
+  REFUNDED
+  CANCELED
+}
+
+enum PaymentProvider {
+  STRIPE
+  MERCADO_PAGO
+  MANUAL
+}
+
+model Order {
+  id     String @id @default(cuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id])
+
+  status   OrderStatus     @default(PENDING)
+  provider PaymentProvider
+
+  providerCheckoutId String?
+  providerPaymentId  String?
+
+  totalCents    Int
+  currency      String @default("BRL")
+  customerEmail String
+
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  paidAt    DateTime?
+
+  items        OrderItem[]
+  entitlements Entitlement[]
+
+  @@index([userId])
+  @@index([status])
+  @@map("orders")
+}
+
+model OrderItem {
+  id        String  @id @default(cuid())
+  orderId   String
+  order     Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productId String
+  product   Product @relation(fields: [productId], references: [id])
+
+  unitPriceCents Int
+  quantity       Int @default(1)
+
+  @@map("order_items")
+}
+
+// Log de eventos de webhook para garantir idempotência no processamento
+model WebhookEvent {
+  id          String          @id @default(cuid())
+  provider    PaymentProvider
+  eventId     String
+  payload     Json
+  processedAt DateTime?
+  createdAt   DateTime        @default(now())
+
+  @@unique([provider, eventId])
+  @@map("webhook_events")
+}
+
+// ---------- Acesso liberado ("Meus materiais") ----------
+
+enum EntitlementSource {
+  PURCHASE
+  MANUAL
+  GIFT
+}
+
+model Entitlement {
+  id        String  @id @default(cuid())
+  userId    String
+  user      User    @relation(fields: [userId], references: [id])
+  productId String
+  product   Product @relation(fields: [productId], references: [id])
+  orderId   String?
+  order     Order?  @relation(fields: [orderId], references: [id])
+
+  source EntitlementSource @default(PURCHASE)
+
+  createdAt     DateTime  @default(now())
+  expiresAt     DateTime?
+  maxDownloads  Int?
+  downloadCount Int       @default(0)
+
+  downloadEvents DownloadEvent[]
+
+  @@unique([userId, productId])
+  @@map("entitlements")
+}
+
+// Registro de cada link de download assinado gerado (auditoria + expiração)
+model DownloadEvent {
+  id            String      @id @default(cuid())
+  entitlementId String
+  entitlement   Entitlement @relation(fields: [entitlementId], references: [id], onDelete: Cascade)
+
+  token        String    @unique
+  expiresAt    DateTime
+  downloadedAt DateTime?
+  ipAddress    String?
+
+  createdAt DateTime @default(now())
+
+  @@index([entitlementId])
+  @@map("download_events")
+}
