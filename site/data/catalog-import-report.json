@@ -1,0 +1,3495 @@
+{
+  "summary": {
+    "generatedAt": "2026-07-19T00:53:29.663Z",
+    "materialsRoot": "/home/user/lumeducacao/lumeducacao",
+    "totalProducts": 54,
+    "totalFiles": 572,
+    "withCategory": 1,
+    "withoutCategory": 53,
+    "categoryCounts": {
+      "pre-2": 0,
+      "pre-1": 0,
+      "1-ano": 0,
+      "2-ano": 0,
+      "3-ano": 1,
+      "4-ano": 0,
+      "5-ano": 0
+    },
+    "subjectCounts": {
+      "matematica": 11,
+      "alfabetizacao": 12,
+      "interpretacao-de-texto": 3,
+      "producao-de-texto": 1,
+      "ciencias": 6,
+      "educacao-especial": 2,
+      "decoracao-de-sala": 31,
+      "material-do-professor": 4,
+      "datas-comemorativas": 0
+    }
+  },
+  "products": [
+    {
+      "title": "Adivinha das Profissões",
+      "slug": "adivinha-das-profissoes",
+      "relativeFolderPath": "ADIVINHA DAS PROFISSÕES",
+      "files": [
+        {
+          "relativePath": "ADIVINHA DAS PROFISSÕES/Documento sem título.docx",
+          "fileName": "Documento sem título.docx",
+          "kind": "EDITABLE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Atividades Educação Especial",
+      "slug": "atividades-educacao-especial",
+      "relativeFolderPath": "ATIVIDADES EDUCAÇÃO ESPECIAL",
+      "files": [
+        {
+          "relativePath": "ATIVIDADES EDUCAÇÃO ESPECIAL/Atividades-Adaptadas-para-Crianças-com-Autismo.pdf",
+          "fileName": "Atividades-Adaptadas-para-Crianças-com-Autismo.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "ATIVIDADES EDUCAÇÃO ESPECIAL/Atividades-Para-Autistas.pdf",
+          "fileName": "Atividades-Para-Autistas.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "educacao-especial"
+      ]
+    },
+    {
+      "title": "Criativo em Vídeo - Planner da Coordenação",
+      "slug": "criativo-em-video-planner-da-coordenacao",
+      "relativeFolderPath": "CRIATIVO EM VÍDEO - PLANNER DA COORDENAÇÃO",
+      "files": [
+        {
+          "relativePath": "CRIATIVO EM VÍDEO - PLANNER DA COORDENAÇÃO/1.mp4",
+          "fileName": "1.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "CRIATIVO EM VÍDEO - PLANNER DA COORDENAÇÃO/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "material-do-professor"
+      ]
+    },
+    {
+      "title": "Alfabeto dos animais",
+      "slug": "alfabeto-dos-animais",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Autorização revenda/Cópia de certificdo de revenda - 2025-01-29T213813.627.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-29T213813.627.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Copy/Copy.docx",
+          "fileName": "Copy.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Fotos/Cópia de Alfabeto dos animais .pdf (1).png",
+          "fileName": "Cópia de Alfabeto dos animais .pdf (1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Fotos/Cópia de Alfabeto dos animais .pdf (2).png",
+          "fileName": "Cópia de Alfabeto dos animais .pdf (2).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Fotos/Cópia de Alfabeto dos animais .pdf.png",
+          "fileName": "Cópia de Alfabeto dos animais .pdf.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Link editável/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/PDF/Cópia de Alfabeto dos animais .pdf.pdf",
+          "fileName": "Cópia de Alfabeto dos animais .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Alfabeto dos animais/Vídeo/Y YAK.mp4",
+          "fileName": "Y YAK.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "alfabetizacao",
+        "ciencias"
+      ]
+    },
+    {
+      "title": "Calendario Mensal",
+      "slug": "calendario-mensal",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Autorização revenda/Cópia de certificdo de revenda - 2025-01-29T221133.690.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-29T221133.690.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Copy/Copy.docx",
+          "fileName": "Copy.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Abril.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Abril.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Agosto.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Agosto.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Dezembro.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Dezembro.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Fevereiro.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Fevereiro.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Janeiro.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Janeiro.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Julho.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Julho.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Junho.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Junho.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Maio.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Maio.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Março.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Março.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Novembro.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Novembro.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Outubro.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Outubro.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Fotos/Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Setembro.png",
+          "fileName": "Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)) - Setembro.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Link/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/PDF/Calendário mensal 2025 Mickey.pdf",
+          "fileName": "Calendário mensal 2025 Mickey.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/CALENDARIO MENSAL/Vídeo/Cópia de Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)).mp4",
+          "fileName": "Cópia de Calendário mensal 2025 planejamento básico colorido branco (A4 (horizontal)).mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Capas de Caderno Harry Potter - não distribuir gratuitamente",
+      "slug": "capas-de-caderno-harry-potter-nao-distribuir-gratuitamente",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Capas de Caderno Harry Potter - não distribuir gratuitamente",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Capas de Caderno Harry Potter - não distribuir gratuitamente/Capas--Harry--Potter--(2).pdf",
+          "fileName": "Capas--Harry--Potter--(2).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Conte um pouco sobre você",
+      "slug": "conte-um-pouco-sobre-voce",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Conte um pouco sobre você",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Conte um pouco sobre você/Foto/Conte um pouco sobre você….png.png",
+          "fileName": "Conte um pouco sobre você….png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Conte um pouco sobre você/PDF/Conte um pouco sobre você….pdf.pdf",
+          "fileName": "Conte um pouco sobre você….pdf.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Cumprimento de Porta Harry Potter - não distribuir gratuitamente",
+      "slug": "cumprimento-de-porta-harry-potter-nao-distribuir-gratuitamente",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Cumprimento de Porta Harry Potter - não distribuir gratuitamente",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Cumprimento de Porta Harry Potter - não distribuir gratuitamente/CUMPRIMENTO--HARRY--POTTER--(1).pdf",
+          "fileName": "CUMPRIMENTO--HARRY--POTTER--(1).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Etiquetas meninos e meninas editável",
+      "slug": "etiquetas-meninos-e-meninas-editavel",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Etiquetas meninos e meninas editável",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Etiquetas meninos e meninas editável/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Etiquetas meninos e meninas editável/Vídeo/Design sem nome.mp4",
+          "fileName": "Design sem nome.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Livro de colorir Dinossauros",
+      "slug": "livro-de-colorir-dinossauros",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Livro de colorir Dinossauros",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Livro de colorir Dinossauros/DINOSSAUROS.pdf",
+          "fileName": "DINOSSAUROS.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "ciencias"
+      ]
+    },
+    {
+      "title": "Livro de colorir números",
+      "slug": "livro-de-colorir-numeros",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Livro de colorir números",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Livro de colorir números/NÚMEROS.pdf",
+          "fileName": "NÚMEROS.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica"
+      ]
+    },
+    {
+      "title": "Tudo sobre mim",
+      "slug": "tudo-sobre-mim",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim/Imagens/IMG_0999.HEIC",
+          "fileName": "IMG_0999.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim/Imagens/IMG_1001.HEIC",
+          "fileName": "IMG_1001.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim/Imagens/IMG_1002.HEIC",
+          "fileName": "IMG_1002.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim/Imagens/IMG_1003.HEIC",
+          "fileName": "IMG_1003.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim/Imagens/IMG_1004.HEIC",
+          "fileName": "IMG_1004.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Tudo sobre mim/PDF/Isca .pdf",
+          "fileName": "Isca .pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Vamos contar monstros",
+      "slug": "vamos-contar-monstros",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Vamos contar monstros",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Arquivos Bônus/Vamos contar monstros/vamos contar monstros (1).pdf",
+          "fileName": "vamos contar monstros (1).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Bolsinho das Vogais",
+      "slug": "bolsinho-das-vogais",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Arquivo/BOLSINHOS DAS VOGAIS.pdf",
+          "fileName": "BOLSINHOS DAS VOGAIS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Autorização revenda/Cópia de certificdo de revenda - 2025-01-13T135004.691.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-13T135004.691.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Fotos/1.jpeg",
+          "fileName": "1.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Fotos/2.jpeg",
+          "fileName": "2.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Fotos/3.jpeg",
+          "fileName": "3.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Fotos/4.jpeg",
+          "fileName": "4.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho das Vogais/Vídeo/vídeo.mp4",
+          "fileName": "vídeo.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Bolsinho do Alfabeto",
+      "slug": "bolsinho-do-alfabeto",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Autorização de revenda/Cópia de certificdo de revenda - 2025-01-13T122219.779.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-13T122219.779.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Fotos/1.jpeg",
+          "fileName": "1.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Fotos/2.jpeg",
+          "fileName": "2.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Fotos/3.jpeg",
+          "fileName": "3.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Fotos/4.jpeg",
+          "fileName": "4.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Fotos/5.jpeg",
+          "fileName": "5.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Fotos/6.jpeg",
+          "fileName": "6.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/PDF/BOLSINHOS DA LEITURA - ALFABETO.pdf",
+          "fileName": "BOLSINHOS DA LEITURA - ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Bolsinho do Alfabeto/vídeo/vídeo.mp4",
+          "fileName": "vídeo.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "alfabetizacao",
+        "interpretacao-de-texto",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Caixa Musical",
+      "slug": "caixa-musical",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/ARQUIVO/CAIXA MUSICAL.pdf.pdf.pdf",
+          "fileName": "CAIXA MUSICAL.pdf.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-20T150152.814.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-20T150152.814.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/FOTO/45e346e5-15b5-4c95-af5e-4e5f32768a13.jpg",
+          "fileName": "45e346e5-15b5-4c95-af5e-4e5f32768a13.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/FOTO/caixa musical.png",
+          "fileName": "caixa musical.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/LINK DE EDIÇAO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/CAIXA MUSICAL/Vídeo/WhatsApp Video 2025-01-30 at 10.28.10.mp4",
+          "fileName": "WhatsApp Video 2025-01-30 at 10.28.10.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Caixa das frases",
+      "slug": "caixa-das-frases",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Autorização revenda/Cópia de certificdo de revenda - 2025-01-21T082339.405.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-21T082339.405.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Fotos/1.jpg",
+          "fileName": "1.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Fotos/2.jpg",
+          "fileName": "2.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Fotos/3.jpg",
+          "fileName": "3.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Fotos/4.jpg",
+          "fileName": "4.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Fotos/5.jpg",
+          "fileName": "5.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Fotos/6.jpg",
+          "fileName": "6.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/PDF/Caixa das frases .pdf.pdf",
+          "fileName": "Caixa das frases .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Caixa das frases/Vídeo/copy_07233BA9-1D69-4251-856C-72FCA51A1578.mov",
+          "fileName": "copy_07233BA9-1D69-4251-856C-72FCA51A1578.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Cantinho da Matemática Harry Potter",
+      "slug": "cantinho-da-matematica-harry-potter",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Autorização de revenda/Cópia de certificdo de revenda - 2025-01-29T111637.512.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-29T111637.512.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 15.48.33 (1).jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 15.48.33 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 15.48.33 (2).jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 15.48.33 (2).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 15.48.33.jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 15.48.33.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 15.48.35.jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 15.48.35.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 15.48.36.jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 15.48.36.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-01-05--at--17.37.46.jpeg",
+          "fileName": "WhatsApp--Image--2024-01-05--at--17.37.46.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-11-08--at--21.52.08--(1).jpeg",
+          "fileName": "WhatsApp--Image--2024-11-08--at--21.52.08--(1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-11-08--at--21.52.08.jpeg",
+          "fileName": "WhatsApp--Image--2024-11-08--at--21.52.08.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-11-08--at--21.52.09.jpeg",
+          "fileName": "WhatsApp--Image--2024-11-08--at--21.52.09.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-11-08--at--21.52.10 (1).jpeg",
+          "fileName": "WhatsApp--Image--2024-11-08--at--21.52.10 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-11-08--at--21.52.10 (2).jpeg",
+          "fileName": "WhatsApp--Image--2024-11-08--at--21.52.10 (2).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Fotos/WhatsApp--Image--2024-11-08--at--21.52.10.jpeg",
+          "fileName": "WhatsApp--Image--2024-11-08--at--21.52.10.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/DICAS--MATEMÁTICAS.pdf",
+          "fileName": "DICAS--MATEMÁTICAS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/ENFEITE.pdf",
+          "fileName": "ENFEITE.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/FORMAS--GEOMÉTRICAS--PARTE--1.pdf",
+          "fileName": "FORMAS--GEOMÉTRICAS--PARTE--1.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/FORMAS--GEOMÉTRICAS--PARTE--2.pdf",
+          "fileName": "FORMAS--GEOMÉTRICAS--PARTE--2.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/FRAÇÕES.pdf",
+          "fileName": "FRAÇÕES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/MULTIPLICAÇÃO.pdf",
+          "fileName": "MULTIPLICAÇÃO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/SISTEMA--MONETÁRIO--PARTE--1.pdf",
+          "fileName": "SISTEMA--MONETÁRIO--PARTE--1.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/SISTEMA--MONETÁRIO--PARTE--2.pdf",
+          "fileName": "SISTEMA--MONETÁRIO--PARTE--2.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/SISTEMA--MONETÁRIO--PARTE--3.pdf",
+          "fileName": "SISTEMA--MONETÁRIO--PARTE--3.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/SÓLIDOS--GEOMÉTRICOS.pdf",
+          "fileName": "SÓLIDOS--GEOMÉTRICOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/TÍTULO--FIGURAS--PLANAS.pdf",
+          "fileName": "TÍTULO--FIGURAS--PLANAS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/TÍTULO--FRAÇÃO.pdf",
+          "fileName": "TÍTULO--FRAÇÃO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/TÍTULO--PRINCIPAL.pdf",
+          "fileName": "TÍTULO--PRINCIPAL.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/TÍTULO--SÓLIDOS--GEOMÉTRICOS.pdf",
+          "fileName": "TÍTULO--SÓLIDOS--GEOMÉTRICOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/PDF/UNIDADE,--DEZENA--E--CENTENA--COLORIDO.pdf",
+          "fileName": "UNIDADE,--DEZENA--E--CENTENA--COLORIDO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Cantinho da Matemática Harry Potter/Vídeo/WhatsApp Video 2025-01-07 at 15.50.22.mp4",
+          "fileName": "WhatsApp Video 2025-01-07 at 15.50.22.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Capa caderno Harry Potter",
+      "slug": "capa-caderno-harry-potter",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Autorização revenda/Cópia de certificdo de revenda - 2025-01-12T173314.571.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-12T173314.571.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9264.HEIC",
+          "fileName": "IMG_9264.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9265.HEIC",
+          "fileName": "IMG_9265.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9266.HEIC",
+          "fileName": "IMG_9266.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9267.HEIC",
+          "fileName": "IMG_9267.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9268.HEIC",
+          "fileName": "IMG_9268.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9269.HEIC",
+          "fileName": "IMG_9269.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9270.HEIC",
+          "fileName": "IMG_9270.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9271.HEIC",
+          "fileName": "IMG_9271.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9272.HEIC",
+          "fileName": "IMG_9272.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/IMG_9431.JPG",
+          "fileName": "IMG_9431.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Fotos/Português (28).png",
+          "fileName": "Português (28).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Harry Potter/PDF/Capas caderno Harry Potter .pdf.pdf",
+          "fileName": "Capas caderno Harry Potter .pdf.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Capa caderno Stitch",
+      "slug": "capa-caderno-stitch",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Autorização revenda/Cópia de certificdo de revenda - 2025-01-12T170413.958.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-12T170413.958.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9280.jpg",
+          "fileName": "IMG_9280.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9281.jpg",
+          "fileName": "IMG_9281.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9282.jpg",
+          "fileName": "IMG_9282.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9283.jpg",
+          "fileName": "IMG_9283.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9284.jpg",
+          "fileName": "IMG_9284.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9285.jpg",
+          "fileName": "IMG_9285.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Fotos/IMG_9286.jpg",
+          "fileName": "IMG_9286.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Link edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Pdf/Capas stitch .pdf.pdf",
+          "fileName": "Capas stitch .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capa caderno Stitch/Pdf/Cópia de Cópia de Cópia de Capas stitch .pdf",
+          "fileName": "Cópia de Cópia de Cópia de Capas stitch .pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Capa caderno minions",
+      "slug": "capa-caderno-minions",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Autorização revenda/Cópia de certificdo de revenda - 2025-01-12T164358.704.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-12T164358.704.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Descrição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9273.jpg",
+          "fileName": "IMG_9273.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9274.jpg",
+          "fileName": "IMG_9274.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9275.jpg",
+          "fileName": "IMG_9275.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9276.jpg",
+          "fileName": "IMG_9276.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9277.jpg",
+          "fileName": "IMG_9277.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9278.jpg",
+          "fileName": "IMG_9278.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Fotos/IMG_9279.jpg",
+          "fileName": "IMG_9279.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Capas de Caderno Minions/Capa caderno minions/PDF/Capa cadernos minions .pdf.pdf",
+          "fileName": "Capa cadernos minions .pdf.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Desafio volta as aulas",
+      "slug": "desafio-volta-as-aulas",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Autorização de revenda/Cópia de certificdo de revenda - 2025-01-12T152242.879.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-12T152242.879.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0035.JPG",
+          "fileName": "IMG_0035.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0036.JPG",
+          "fileName": "IMG_0036.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0037.JPG",
+          "fileName": "IMG_0037.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0038.JPG",
+          "fileName": "IMG_0038.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0039.JPG",
+          "fileName": "IMG_0039.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0040.JPG",
+          "fileName": "IMG_0040.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0041.JPG",
+          "fileName": "IMG_0041.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0042.JPG",
+          "fileName": "IMG_0042.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0043.JPG",
+          "fileName": "IMG_0043.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0044.JPG",
+          "fileName": "IMG_0044.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Fotos/IMG_0045.JPG",
+          "fileName": "IMG_0045.JPG",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/PDF/Desafio volta as aulas .pdf.pdf",
+          "fileName": "Desafio volta as aulas .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Desafio volta as aulas/Vídeo/copy_8EE61782-D597-4CCD-85B0-7402F9463E87.mov",
+          "fileName": "copy_8EE61782-D597-4CCD-85B0-7402F9463E87.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Dona girafa mandou",
+      "slug": "dona-girafa-mandou",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Autorização de revenda/Cópia de certificdo de revenda - 2025-01-21T080504.045.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-21T080504.045.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/1.jpg",
+          "fileName": "1.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/10.jpg",
+          "fileName": "10.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/11.jpg",
+          "fileName": "11.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/2.jpg",
+          "fileName": "2.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/3.jpg",
+          "fileName": "3.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/4.jpg",
+          "fileName": "4.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/5.jpg",
+          "fileName": "5.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/6.jpg",
+          "fileName": "6.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/7.jpg",
+          "fileName": "7.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/8.jpg",
+          "fileName": "8.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Fotos/9.jpg",
+          "fileName": "9.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/PDF/Dona girafa mandou .pdf.pdf",
+          "fileName": "Dona girafa mandou .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Dona girafa mandou/Vídeo/copy_92612D3C-DFE9-4588-91D3-1E6BBF37A2A6.mov",
+          "fileName": "copy_92612D3C-DFE9-4588-91D3-1E6BBF37A2A6.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": []
+    },
+    {
+      "title": "Fichas de Produção de Texto",
+      "slug": "fichas-de-producao-de-texto",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/ARQUIVO/Cópia de Cópia de Inserir um subtítulo.pdf",
+          "fileName": "Cópia de Cópia de Inserir um subtítulo.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/AUTORIZAÇÃO DE REVENDA/Cópia de certificdo de revenda - 2025-01-20T122001.268.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-20T122001.268.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/FOTOS/IMG_1658.HEIC",
+          "fileName": "IMG_1658.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/FOTOS/IMG_1659.HEIC",
+          "fileName": "IMG_1659.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/FOTOS/IMG_1660.HEIC",
+          "fileName": "IMG_1660.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/FOTOS/IMG_1662.HEIC",
+          "fileName": "IMG_1662.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/FOTOS/IMG_1663.HEIC",
+          "fileName": "IMG_1663.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/LINK DE EDIÇAO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS DE PRODUÇÃO DE TEXTO/VÍDEO/Cópia de Cópia de Inserir um subtítulo.mp4",
+          "fileName": "Cópia de Cópia de Inserir um subtítulo.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "producao-de-texto"
+      ]
+    },
+    {
+      "title": "Fichas Material Dourado",
+      "slug": "fichas-material-dourado",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/ARQUIVO/UNIDADE.pdf",
+          "fileName": "UNIDADE.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/FOTOS/1.jpg",
+          "fileName": "1.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/FOTOS/2.png",
+          "fileName": "2.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/FOTOS/3.png",
+          "fileName": "3.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/FOTOS/4.png",
+          "fileName": "4.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/VÍDEO/Cópia de Cópia de UNIDADE.mp4",
+          "fileName": "Cópia de Cópia de UNIDADE.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/autorização revenda/Cópia de certificdo de revenda - 2025-01-20T131043.256.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-20T131043.256.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/FICHAS MATERIAL DOURADO/copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica"
+      ]
+    },
+    {
+      "title": "História na luva, volta as aulas",
+      "slug": "historia-na-luva-volta-as-aulas",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Autorização de revenda/Cópia de certificdo de revenda - 2025-01-21T080018.375.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-21T080018.375.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0951.jpg",
+          "fileName": "IMG_0951.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0952.jpg",
+          "fileName": "IMG_0952.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0953.jpg",
+          "fileName": "IMG_0953.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0954.jpg",
+          "fileName": "IMG_0954.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0955.jpg",
+          "fileName": "IMG_0955.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0956.jpg",
+          "fileName": "IMG_0956.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0957.jpg",
+          "fileName": "IMG_0957.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0958.jpg",
+          "fileName": "IMG_0958.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0959.jpg",
+          "fileName": "IMG_0959.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0960.jpg",
+          "fileName": "IMG_0960.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Fotos/IMG_0961.jpg",
+          "fileName": "IMG_0961.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/PDF/A volta às aulas dos sete amigos .pdf.pdf",
+          "fileName": "A volta às aulas dos sete amigos .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/História na luva, volta as aulas/Vídeo/copy_7F717DDB-C8F7-4720-A70F-94B2767FBC75.mov",
+          "fileName": "copy_7F717DDB-C8F7-4720-A70F-94B2767FBC75.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit das Caixinhas",
+      "slug": "kit-das-caixinhas",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/Autorização revenda/Cópia de certificdo de revenda - 2025-01-23T143239.549.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-23T143239.549.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/COPY/COPY.docx",
+          "fileName": "COPY.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 16.08.05 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 16.08.05 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 16.08.05.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 16.08.05.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 16.08.07 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 16.08.07 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 16.08.07.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 16.08.07.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.18.10 (2).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.18.10 (2).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.18.10.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.18.10.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.18.11 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.18.11 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.18.11.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.18.11.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.34.27 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.34.27 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.34.28 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.34.28 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.34.28.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.34.28.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.52.46 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.52.46 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.52.46.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.52.46.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.52.47.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.52.47.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/FOTOS/WhatsApp Image 2024-09-25 at 17.52.49.jpeg",
+          "fileName": "WhatsApp Image 2024-09-25 at 17.52.49.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/KIT/WhatsApp Image 2024-09-26 at 18.10.24.jpeg",
+          "fileName": "WhatsApp Image 2024-09-26 at 18.10.24.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/KIT/WhatsApp Image 2024-09-26 at 18.10.25.jpeg",
+          "fileName": "WhatsApp Image 2024-09-26 at 18.10.25.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/KIT/WhatsApp Image 2024-09-26 at 18.10.26.jpeg",
+          "fileName": "WhatsApp Image 2024-09-26 at 18.10.26.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/KIT/WhatsApp Image 2024-09-26 at 18.10.27.jpeg",
+          "fileName": "WhatsApp Image 2024-09-26 at 18.10.27.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/FOTOS/KIT/WhatsApp Image 2024-09-26 at 18.10.28.jpeg",
+          "fileName": "WhatsApp Image 2024-09-26 at 18.10.28.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/LINK PARA EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/PDF/CAIXINHA DAS SÍLABAS  COMPLEXAS.pdf",
+          "fileName": "CAIXINHA DAS SÍLABAS  COMPLEXAS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/PDF/CAIXINHA DAS SÍLABAS SIMPLES.pdf",
+          "fileName": "CAIXINHA DAS SÍLABAS SIMPLES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/PDF/CAIXINHAS DO ALFABETO.pdf",
+          "fileName": "CAIXINHAS DO ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/PDF/CAIXINHAS DOS NÚMEROS.pdf",
+          "fileName": "CAIXINHAS DOS NÚMEROS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/VÍDEOS/WhatsApp Video 2024-10-19 at 10.26.21.mp4",
+          "fileName": "WhatsApp Video 2024-10-19 at 10.26.21.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/VÍDEOS/WhatsApp Video 2024-10-19 at 10.27.13.mp4",
+          "fileName": "WhatsApp Video 2024-10-19 at 10.27.13.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/VÍDEOS/WhatsApp Video 2024-10-19 at 10.29.01.mp4",
+          "fileName": "WhatsApp Video 2024-10-19 at 10.29.01.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/VÍDEOS/WhatsApp Video 2024-10-19 at 10.29.53.mp4",
+          "fileName": "WhatsApp Video 2024-10-19 at 10.29.53.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT DAS CAIXINHAS/VÍDEOS/WhatsApp Video 2024-10-19 at 10.31.05.mp4",
+          "fileName": "WhatsApp Video 2024-10-19 at 10.31.05.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Educação Especial",
+      "slug": "kit-educacao-especial",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/ARQUIVO/Cópia de KIT ATIVIDADES.pdf",
+          "fileName": "Cópia de KIT ATIVIDADES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/AUTORIZAÇÃO DE REVENDA/Cópia de certificdo de revenda - 2025-01-20T153230.689.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-20T153230.689.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/FOTOS/59fd0084-0933-4658-bcc0-7741a297e8ba.jpg",
+          "fileName": "59fd0084-0933-4658-bcc0-7741a297e8ba.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/FOTOS/Cópia de Cópia de Cópia de Cópia de   MOCKUP ENCADERNAÇÃO COMPLETO _) (19).png",
+          "fileName": "Cópia de Cópia de Cópia de Cópia de   MOCKUP ENCADERNAÇÃO COMPLETO _) (19).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/FOTOS/b9eaf678-547c-4525-ac52-9df37937c9e2.jpg",
+          "fileName": "b9eaf678-547c-4525-ac52-9df37937c9e2.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/FOTOS/e51ca705-3a13-4a3b-a34c-36877aa48798.jpg",
+          "fileName": "e51ca705-3a13-4a3b-a34c-36877aa48798.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/FOTOS/f0cdebb9-526b-456a-8bd8-7d0e9a39e6fb.jpg",
+          "fileName": "f0cdebb9-526b-456a-8bd8-7d0e9a39e6fb.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT EDUCAÇÃO ESPECIAL/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "educacao-especial"
+      ]
+    },
+    {
+      "title": "Kit Sala Harry Potter Ii",
+      "slug": "kit-sala-harry-potter-ii",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-28T140717.631.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-28T140717.631.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/COPY/Documento sem título.docx",
+          "fileName": "Documento sem título.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/FOTOS/Design sem nome.png(1).png",
+          "fileName": "Design sem nome.png(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/FOTOS/Design sem nome.png(2).png",
+          "fileName": "Design sem nome.png(2).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/FOTOS/Design sem nome.png(3).png",
+          "fileName": "Design sem nome.png(3).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/FOTOS/Design sem nome.png.png",
+          "fileName": "Design sem nome.png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/AJUDANTE DO DIA.pdf",
+          "fileName": "AJUDANTE DO DIA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/ALFABETO.pdf",
+          "fileName": "ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/CALENDÁRIO (4).pdf",
+          "fileName": "CALENDÁRIO (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/CHAMADINHA (3).pdf",
+          "fileName": "CHAMADINHA (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/COMBINADOS (2).pdf",
+          "fileName": "COMBINADOS (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/COMO ESTÁ O TEMPO.pdf",
+          "fileName": "COMO ESTÁ O TEMPO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/ENFEITE 1.pdf",
+          "fileName": "ENFEITE 1.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/ENFEITE 2.pdf",
+          "fileName": "ENFEITE 2.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/NUMERAIS DE 1 A 100 (3).pdf",
+          "fileName": "NUMERAIS DE 1 A 100 (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/NÚMEROS, CORES E FORMAS GEOMÉTRICAS.pdf",
+          "fileName": "NÚMEROS, CORES E FORMAS GEOMÉTRICAS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/PAINEL (2).pdf",
+          "fileName": "PAINEL (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/PALAVRAS MÁGICAS (4).pdf",
+          "fileName": "PALAVRAS MÁGICAS (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/QUANTOS SOMOS (4).pdf",
+          "fileName": "QUANTOS SOMOS (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/SILABÁRIO COMPLEXO (2).pdf",
+          "fileName": "SILABÁRIO COMPLEXO (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/SILABÁRIO SIMPLES (3).pdf",
+          "fileName": "SILABÁRIO SIMPLES (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA HARRY POTTER II/PDF/VOGAIS (2).pdf",
+          "fileName": "VOGAIS (2).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Sala Kids Natureza",
+      "slug": "kit-sala-kids-natureza",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/AUTORIZAÇÃO DE REVENDA/Cópia de certificdo de revenda - 2025-01-06T133512.488.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-06T133512.488.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/COPY/Kit sala de aula Kids .docx",
+          "fileName": "Kit sala de aula Kids .docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/FOTOS/1.jpeg",
+          "fileName": "1.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/FOTOS/2.jpeg",
+          "fileName": "2.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/FOTOS/3.jpeg",
+          "fileName": "3.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/FOTOS/4.jpeg",
+          "fileName": "4.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/FOTOS/5.jpeg",
+          "fileName": "5.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/FOTOS/6.jpeg",
+          "fileName": "6.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/PDF/Alfabeto Kit KidsNatureza.pdf.pdf",
+          "fileName": "Alfabeto Kit KidsNatureza.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/PDF/KIT SALA KIDS NATUREZA.pdf.pdf",
+          "fileName": "KIT SALA KIDS NATUREZA.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA KIDS NATUREZA/VÍDEO/VIDEO SEM SOM .mp4",
+          "fileName": "VIDEO SEM SOM .mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "alfabetizacao",
+        "ciencias",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Sala Material Escolar",
+      "slug": "kit-sala-material-escolar",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/AUTORIZAÇÃO DE REVENDA/Cópia de certificdo de revenda - 2025-01-06T122909.407.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-06T122909.407.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/COPY/Kit sala de aula Material escolar .docx",
+          "fileName": "Kit sala de aula Material escolar .docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/1.jpeg",
+          "fileName": "1.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/10.jpeg",
+          "fileName": "10.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/11.jpeg",
+          "fileName": "11.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/2.jpeg",
+          "fileName": "2.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/3.jpeg",
+          "fileName": "3.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/4.jpeg",
+          "fileName": "4.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/5.jpeg",
+          "fileName": "5.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/6.jpeg",
+          "fileName": "6.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/7.jpeg",
+          "fileName": "7.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/8.jpeg",
+          "fileName": "8.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/FOTOS/9.jpeg",
+          "fileName": "9.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/PDF/Alfabeto corujinhas .pdf",
+          "fileName": "Alfabeto corujinhas .pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/PDF/KIT SALA KIDS MATERIAL ESCOLAR.pdf.pdf",
+          "fileName": "KIT SALA KIDS MATERIAL ESCOLAR.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA MATERIAL ESCOLAR/VÍDEO/088C33F1-E3CE-4A5A-8DB8-733FD6E1DABC.mov",
+          "fileName": "088C33F1-E3CE-4A5A-8DB8-733FD6E1DABC.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Sala Stitch e Angel",
+      "slug": "kit-sala-stitch-e-angel",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/Autorização revenda/Cópia de certificdo de revenda - 2025-01-28T143707.492.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-28T143707.492.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/COPY/Documento sem título.docx",
+          "fileName": "Documento sem título.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/FOTOS/Cópia de Design sem nome.png(1).png",
+          "fileName": "Cópia de Design sem nome.png(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/FOTOS/Cópia de Design sem nome.png(2).png",
+          "fileName": "Cópia de Design sem nome.png(2).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/FOTOS/Cópia de Design sem nome.png(3).png",
+          "fileName": "Cópia de Design sem nome.png(3).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/FOTOS/Cópia de Design sem nome.png.png",
+          "fileName": "Cópia de Design sem nome.png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/AJUDANTE DO DIA (2).pdf",
+          "fileName": "AJUDANTE DO DIA (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/ALFABETO.pdf",
+          "fileName": "ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/ANIVERSARIANTES DO MES.pdf",
+          "fileName": "ANIVERSARIANTES DO MES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/CALENDÁRIO (5).pdf",
+          "fileName": "CALENDÁRIO (5).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/CHAMADINHA (4).pdf",
+          "fileName": "CHAMADINHA (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/COMBINADOS (3).pdf",
+          "fileName": "COMBINADOS (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/COMO ESTA O TEMPO.pdf",
+          "fileName": "COMO ESTA O TEMPO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/NUMERAIS DE 1 A 100 (4).pdf",
+          "fileName": "NUMERAIS DE 1 A 100 (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/NÚMEROS, CORES E FORMAS .pdf",
+          "fileName": "NÚMEROS, CORES E FORMAS .pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/PAINEL (4).pdf",
+          "fileName": "PAINEL (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/PALAVRAS MÁGICAS (5).pdf",
+          "fileName": "PALAVRAS MÁGICAS (5).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/QUANTOS SOMOS (5).pdf",
+          "fileName": "QUANTOS SOMOS (5).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/SILABARIO COMPLEXO.pdf",
+          "fileName": "SILABARIO COMPLEXO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/SILABARIO SIMPLES (2).pdf",
+          "fileName": "SILABARIO SIMPLES (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA STITCH E ANGEL/PDF/VOGAIS (3).pdf",
+          "fileName": "VOGAIS (3).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Sala Sítio do Pica-pau Amarelo",
+      "slug": "kit-sala-sitio-do-pica-pau-amarelo",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/Autorização de revenda/Cópia de certificdo de revenda - 2025-01-28T141950.957.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-28T141950.957.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/FOTOS/Design sem nome.png(1).png",
+          "fileName": "Design sem nome.png(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/FOTOS/Design sem nome.png(2).png",
+          "fileName": "Design sem nome.png(2).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/FOTOS/Design sem nome.png(3).png",
+          "fileName": "Design sem nome.png(3).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/FOTOS/Design sem nome.png.png",
+          "fileName": "Design sem nome.png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/AJUDANTE DO DIA (2).pdf",
+          "fileName": "AJUDANTE DO DIA (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/ALFABETO.pdf",
+          "fileName": "ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/ANIVERSARIANTES DO MES.pdf",
+          "fileName": "ANIVERSARIANTES DO MES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/CALENDARIO.pdf",
+          "fileName": "CALENDARIO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/CHAMADINHA (4).pdf",
+          "fileName": "CHAMADINHA (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/COMBINADOS (3).pdf",
+          "fileName": "COMBINADOS (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/COMO ESTA O CLIMA.pdf",
+          "fileName": "COMO ESTA O CLIMA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/DONA BENTA.pdf",
+          "fileName": "DONA BENTA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/EMILIA.pdf",
+          "fileName": "EMILIA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/GRAMAS.pdf",
+          "fileName": "GRAMAS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/NARIZINHO.pdf",
+          "fileName": "NARIZINHO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/NUMERAIS DE 1 A 100 (4).pdf",
+          "fileName": "NUMERAIS DE 1 A 100 (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/NÚMEROS, CORES E FORMAS GEOMÉTRICAS.pdf",
+          "fileName": "NÚMEROS, CORES E FORMAS GEOMÉTRICAS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/PAINEL (3).pdf",
+          "fileName": "PAINEL (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/PALAVRAS MÁGICAS (5).pdf",
+          "fileName": "PALAVRAS MÁGICAS (5).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/PEDRINHO.pdf",
+          "fileName": "PEDRINHO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/QUANTOS SOMOS (5).pdf",
+          "fileName": "QUANTOS SOMOS (5).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/SILABARIO COMPLEXO.pdf",
+          "fileName": "SILABARIO COMPLEXO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/SILABÁRIO SIMPLES (4).pdf",
+          "fileName": "SILABÁRIO SIMPLES (4).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/KIT SALA SÍTIO DO PICA-PAU AMARELO/PDF/VOGAIS (3).pdf",
+          "fileName": "VOGAIS (3).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Sala Harry Potter",
+      "slug": "kit-sala-harry-potter",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Autorização revenda/Cópia de certificdo de revenda - 2025-01-07T164836.731.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-07T164836.731.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 16.47.58 (1).jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 16.47.58 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 16.47.58.jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 16.47.58.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Fotos/WhatsApp Image 2025-01-07 at 16.47.59.jpeg",
+          "fileName": "WhatsApp Image 2025-01-07 at 16.47.59.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Fotos/WhatsApp--Image--2024-01-05--at--17.37.46 (1).jpeg",
+          "fileName": "WhatsApp--Image--2024-01-05--at--17.37.46 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/AJUDANTES.pdf",
+          "fileName": "AJUDANTES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/ALFABETO.pdf",
+          "fileName": "ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/BEM-VINDOS.pdf",
+          "fileName": "BEM-VINDOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/CALENDÁRIO.pdf",
+          "fileName": "CALENDÁRIO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/CHAMADINHA (1).pdf",
+          "fileName": "CHAMADINHA (1).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/COMBINADOS.pdf",
+          "fileName": "COMBINADOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/COMO--ESTÁ--O--TEMPO.pdf",
+          "fileName": "COMO--ESTÁ--O--TEMPO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/NÚMEROS--ATÉ--100.pdf",
+          "fileName": "NÚMEROS--ATÉ--100.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/PALAVRA--DO--DIA.pdf",
+          "fileName": "PALAVRA--DO--DIA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/PARABÉNS (1).pdf",
+          "fileName": "PARABÉNS (1).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/PARABÉNS.pdf",
+          "fileName": "PARABÉNS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/QUANTOS--SOMOS.pdf",
+          "fileName": "QUANTOS--SOMOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/SILABARIO--SIMPLES.pdf",
+          "fileName": "SILABARIO--SIMPLES.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/PDF/SILABÁRIO--COMPLEXO.pdf",
+          "fileName": "SILABÁRIO--COMPLEXO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Sala Harry Potter/Vídeo/WhatsApp Video 2025-01-07 at 16.47.57.mp4",
+          "fileName": "WhatsApp Video 2025-01-07 at 16.47.57.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit Volta as aulas stitch",
+      "slug": "kit-volta-as-aulas-stitch",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Autorização revenda/Cópia de certificdo de revenda - 2025-01-06T214809.043.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-06T214809.043.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9236.HEIC",
+          "fileName": "IMG_9236.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9237.HEIC",
+          "fileName": "IMG_9237.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9239.HEIC",
+          "fileName": "IMG_9239.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9241.HEIC",
+          "fileName": "IMG_9241.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9243.HEIC",
+          "fileName": "IMG_9243.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9244.HEIC",
+          "fileName": "IMG_9244.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9245.HEIC",
+          "fileName": "IMG_9245.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9246.HEIC",
+          "fileName": "IMG_9246.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9247.HEIC",
+          "fileName": "IMG_9247.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9248.HEIC",
+          "fileName": "IMG_9248.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9249.HEIC",
+          "fileName": "IMG_9249.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9250.HEIC",
+          "fileName": "IMG_9250.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9251.HEIC",
+          "fileName": "IMG_9251.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9252.HEIC",
+          "fileName": "IMG_9252.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9253.HEIC",
+          "fileName": "IMG_9253.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9254.HEIC",
+          "fileName": "IMG_9254.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9255.HEIC",
+          "fileName": "IMG_9255.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9256.HEIC",
+          "fileName": "IMG_9256.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9257.HEIC",
+          "fileName": "IMG_9257.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9258.HEIC",
+          "fileName": "IMG_9258.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9259.HEIC",
+          "fileName": "IMG_9259.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9260.HEIC",
+          "fileName": "IMG_9260.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Fotos/IMG_9261.HEIC",
+          "fileName": "IMG_9261.HEIC",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/PDF/Painel ampliado .pdf.pdf",
+          "fileName": "Painel ampliado .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/PDF/Volta às aulas.pdf.pdf",
+          "fileName": "Volta às aulas.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit Volta as aulas stitch/Vídeo/WhatsApp Video 2025-01-06 at 20.48.00.mp4",
+          "fileName": "WhatsApp Video 2025-01-06 at 20.48.00.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit sala ursinhos",
+      "slug": "kit-sala-ursinhos",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Autorização revenda/Cópia de certificdo de revenda - 2025-01-15T171305.060.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-15T171305.060.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Copy/Copy.docx",
+          "fileName": "Copy.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1014.jpg",
+          "fileName": "IMG_1014.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1015.jpg",
+          "fileName": "IMG_1015.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1016.jpg",
+          "fileName": "IMG_1016.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1017.jpg",
+          "fileName": "IMG_1017.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1018.jpg",
+          "fileName": "IMG_1018.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1019.jpg",
+          "fileName": "IMG_1019.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1020.jpg",
+          "fileName": "IMG_1020.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1021.jpg",
+          "fileName": "IMG_1021.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1022.jpg",
+          "fileName": "IMG_1022.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1023.jpg",
+          "fileName": "IMG_1023.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1024.jpg",
+          "fileName": "IMG_1024.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Fotos/IMG_1025.jpg",
+          "fileName": "IMG_1025.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/PDF/KIT sala URSOS.pdf.pdf",
+          "fileName": "KIT sala URSOS.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos/Vídeo/Vídeo sem som .mp4",
+          "fileName": "Vídeo sem som .mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Kit sala ursinhos carinhosos",
+      "slug": "kit-sala-ursinhos-carinhosos",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/Autorização revenda/Cópia de certificdo de revenda - 2025-01-24T134703.456.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-24T134703.456.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/copy/🌺KIT SALA_  Ursinhos carinhosos.docx",
+          "fileName": "🌺KIT SALA_  Ursinhos carinhosos.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/fotos/Design sem nome.png(1).png",
+          "fileName": "Design sem nome.png(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/fotos/Design sem nome.png.png",
+          "fileName": "Design sem nome.png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/fotos/Design sem nome.zip - 1(1).png",
+          "fileName": "Design sem nome.zip - 1(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/fotos/Design sem nome.zip - 1.png",
+          "fileName": "Design sem nome.zip - 1.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/fotos/Design sem nome.zip - 2(1).png",
+          "fileName": "Design sem nome.zip - 2(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/fotos/Design sem nome.zip - 2.png",
+          "fileName": "Design sem nome.zip - 2.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/ALFABETO.pdf",
+          "fileName": "ALFABETO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/CALENDÁRIO (3).pdf",
+          "fileName": "CALENDÁRIO (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/CHAMDINHA.pdf",
+          "fileName": "CHAMDINHA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/COMBINADOS.pdf",
+          "fileName": "COMBINADOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/COMO ESTÁ O CLIMA.pdf",
+          "fileName": "COMO ESTÁ O CLIMA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/NUMERAIS DE 1 A 100 (2).pdf",
+          "fileName": "NUMERAIS DE 1 A 100 (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/PAINEL BEM-VINDOS.pdf",
+          "fileName": "PAINEL BEM-VINDOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/PALAVRAS MÁGICAS (3).pdf",
+          "fileName": "PALAVRAS MÁGICAS (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/QUANTOS SOMOS (3).pdf",
+          "fileName": "QUANTOS SOMOS (3).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/SILABÁRIO COMPLEXO.pdf",
+          "fileName": "SILABÁRIO COMPLEXO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/SILABÁRIO SIMPLES (2).pdf",
+          "fileName": "SILABÁRIO SIMPLES (2).pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/VOGAIS.pdf",
+          "fileName": "VOGAIS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/pdf/números, cores e formas geométricas.pdf",
+          "fileName": "números, cores e formas geométricas.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Kit sala ursinhos carinhosos/video/copy_0E2F2690-D1F1-4473-BA0B-7DC0ABD496FE.mov",
+          "fileName": "copy_0E2F2690-D1F1-4473-BA0B-7DC0ABD496FE.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica",
+        "alfabetizacao",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Luva Partes de Uma Planta",
+      "slug": "luva-partes-de-uma-planta",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/Autorização revenda/Cópia de certificdo de revenda - 2025-01-23T151731.045.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-23T151731.045.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/COPY/COPY.docx",
+          "fileName": "COPY.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.30.57.jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.30.57.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.30.58.jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.30.58.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.30.59 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.30.59 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.30.59.jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.30.59.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.31.00 (1).jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.31.00 (1).jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.31.00.jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.31.00.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.31.01.jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.31.01.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/FOTOS/WhatsApp Image 2024-09-20 at 18.31.04.jpeg",
+          "fileName": "WhatsApp Image 2024-09-20 at 18.31.04.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/LINK PARA EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/PDF/LUVA DAS PARTES DE UMA PLANTA.pdf",
+          "fileName": "LUVA DAS PARTES DE UMA PLANTA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/VÍDEOS/WhatsApp Video 2024-09-20 at 18.34.20.mp4",
+          "fileName": "WhatsApp Video 2024-09-20 at 18.34.20.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/VÍDEOS/WhatsApp Video 2024-09-20 at 18.49.49.mp4",
+          "fileName": "WhatsApp Video 2024-09-20 at 18.49.49.mp4",
+          "kind": "VIDEO"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/LUVA PARTES DE UMA PLANTA/VÍDEOS/WhatsApp Video 2024-09-20 at 18.50.01.mp4",
+          "fileName": "WhatsApp Video 2024-09-20 at 18.50.01.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "ciencias",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Painel de Porta Biblioteca",
+      "slug": "painel-de-porta-biblioteca",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-17T113807.957.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-17T113807.957.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/COPY/📚✨ Deixe sua biblioteca cheia de encanto e inspiração.docx",
+          "fileName": "📚✨ Deixe sua biblioteca cheia de encanto e inspiração.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/FOTOS/PAINEL DE PORTA BIBLIOTECA.png(1).png",
+          "fileName": "PAINEL DE PORTA BIBLIOTECA.png(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/FOTOS/PAINEL DE PORTA BIBLIOTECA.png(2).png",
+          "fileName": "PAINEL DE PORTA BIBLIOTECA.png(2).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/FOTOS/PAINEL DE PORTA BIBLIOTECA.png.png",
+          "fileName": "PAINEL DE PORTA BIBLIOTECA.png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/PDF/PORTA DE BIBLIOTECA.pdf",
+          "fileName": "PORTA DE BIBLIOTECA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BIBLIOTECA/VIDEO/copy_B70D1054-2031-4F31-A9C4-B6D3DAF4752C.mov",
+          "fileName": "copy_B70D1054-2031-4F31-A9C4-B6D3DAF4752C.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Painel de Porta Boas Vindas Stitch",
+      "slug": "painel-de-porta-boas-vindas-stitch",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-18T011320.349.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-18T011320.349.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH/FOTO/WhatsApp Image 2025-01-18 at 01.22.16.jpeg",
+          "fileName": "WhatsApp Image 2025-01-18 at 01.22.16.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH/PDF/PDF.pdf",
+          "fileName": "PDF.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA BOAS VINDAS STITCH/PDF/Rasterbation 2 (1).pdf",
+          "fileName": "Rasterbation 2 (1).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Painel de Porta Turma da Monica",
+      "slug": "painel-de-porta-turma-da-monica",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-17T120925.457.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-17T120925.457.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/COPY/🌟 Transforme a entrada da sua sala com o encanto da Turma da Mônica.docx",
+          "fileName": "🌟 Transforme a entrada da sua sala com o encanto da Turma da Mônica.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/FOTOS/PAINEL BEM-VINDOS TURMA DA MÔNICA.png(1).png",
+          "fileName": "PAINEL BEM-VINDOS TURMA DA MÔNICA.png(1).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/FOTOS/PAINEL BEM-VINDOS TURMA DA MÔNICA.png(2).png",
+          "fileName": "PAINEL BEM-VINDOS TURMA DA MÔNICA.png(2).png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/FOTOS/PAINEL BEM-VINDOS TURMA DA MÔNICA.png.png",
+          "fileName": "PAINEL BEM-VINDOS TURMA DA MÔNICA.png.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/PDF/Cópia de Cópia de PAINEL BEM-VINDOS TURMA DA MÔNICA.pdf",
+          "fileName": "Cópia de Cópia de PAINEL BEM-VINDOS TURMA DA MÔNICA.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA TURMA DA MONICA/VIDEO/copy_DEC052F4-0AAD-4B7D-A90C-2169F520822B.mov",
+          "fileName": "copy_DEC052F4-0AAD-4B7D-A90C-2169F520822B.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Painel de Porta Ursinho Pooh",
+      "slug": "painel-de-porta-ursinho-pooh",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA URSINHO POOH",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA URSINHO POOH/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-18T012925.924.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-18T012925.924.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA URSINHO POOH/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA URSINHO POOH/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA URSINHO POOH/PDF/Cópia de Cópia de BEM - VINDOS.pdf",
+          "fileName": "Cópia de Cópia de BEM - VINDOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL DE PORTA URSINHO POOH/PNG/FOTO.png",
+          "fileName": "FOTO.png",
+          "kind": "IMAGE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Painel Rotina da Turma Educação Infantil",
+      "slug": "painel-rotina-da-turma-educacao-infantil",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/PAINEL ROTINA DA TURMA EDUCAÇÃO INFANTIL",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL ROTINA DA TURMA EDUCAÇÃO INFANTIL/ARQUIVO/NOSSA ROTINA.pdf.pdf",
+          "fileName": "NOSSA ROTINA.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL ROTINA DA TURMA EDUCAÇÃO INFANTIL/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-18T004956.998.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-18T004956.998.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL ROTINA DA TURMA EDUCAÇÃO INFANTIL/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL ROTINA DA TURMA EDUCAÇÃO INFANTIL/FOTO/NOSSA ROTINA_20240916_162653_0000.png",
+          "fileName": "NOSSA ROTINA_20240916_162653_0000.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/PAINEL ROTINA DA TURMA EDUCAÇÃO INFANTIL/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Painel volta Às aulas divertidamente",
+      "slug": "painel-volta-as-aulas-divertidamente",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/Autorização revenda/Cópia de certificdo de revenda - 2025-01-17T124816.322.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-17T124816.322.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/copy/_Volta às aulas com Divertidamente.docx",
+          "fileName": "_Volta às aulas com Divertidamente.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/fotos/1.png",
+          "fileName": "1.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/fotos/2.png",
+          "fileName": "2.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/fotos/3.png",
+          "fileName": "3.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/fotos/4.png",
+          "fileName": "4.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/pdf/Painel divertidamente pdf.pdf",
+          "fileName": "Painel divertidamente pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Painel volta Às aulas divertidamente/video/copy_F8A54D53-03F2-41A6-A053-3730F466541C.mov",
+          "fileName": "copy_F8A54D53-03F2-41A6-A053-3730F466541C.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Palavrinhas Mágicas Turma da Mônica",
+      "slug": "palavrinhas-magicas-turma-da-monica",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Palavrinhas Mágicas Turma da Mônica",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Palavrinhas Mágicas Turma da Mônica/Autorização revenda/Cópia de certificdo de revenda - 2025-01-15T155848.233.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-15T155848.233.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Palavrinhas Mágicas Turma da Mônica/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Palavrinhas Mágicas Turma da Mônica/Foto/PALAVRINHAS MÁGICAS.png",
+          "fileName": "PALAVRINHAS MÁGICAS.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Palavrinhas Mágicas Turma da Mônica/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Palavrinhas Mágicas Turma da Mônica/PDF/PALAVRINHAS MÁGICAS.pdf",
+          "fileName": "PALAVRINHAS MÁGICAS.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "alfabetizacao"
+      ]
+    },
+    {
+      "title": "Relogio da Rotina",
+      "slug": "relogio-da-rotina",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA/ARQUIVOS/RELÓGIO DA ROTINA.pdf.pdf",
+          "fileName": "RELÓGIO DA ROTINA.pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA/AUTORIZAÇÃO REVENDA/Cópia de certificdo de revenda - 2025-01-20T134458.145.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-20T134458.145.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA/COPY/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA/FOTO/trashed-1721946712-IMG_20240625_190905.jpg",
+          "fileName": "trashed-1721946712-IMG_20240625_190905.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA/LINK DE EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/RELOGIO DA ROTINA/VÍDEO/Cópia de Cópia de RELÓGIO DA ROTINA.pdf.mp4",
+          "fileName": "Cópia de Cópia de RELÓGIO DA ROTINA.pdf.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Sacola de leitura_ Os animais da vovó e o mistério da luva perdida",
+      "slug": "sacola-de-leitura-os-animais-da-vovo-e-o-misterio-da-luva-perdida",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Autorização revenda/Cópia de certificdo de revenda - 2025-01-06T231731.099.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-06T231731.099.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/1.jpeg",
+          "fileName": "1.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/2.jpeg",
+          "fileName": "2.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/3.jpeg",
+          "fileName": "3.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/4.jpeg",
+          "fileName": "4.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/5.jpeg",
+          "fileName": "5.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/6.jpeg",
+          "fileName": "6.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Fotos/7.jpeg",
+          "fileName": "7.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/PDF/Os animais da vovó .pdf.pdf",
+          "fileName": "Os animais da vovó .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola de leitura_ Os animais da vovó e o mistério da luva perdida/Vídeo/copy_2B7E50ED-56E5-45E1-821C-739055E2DEAD.mov",
+          "fileName": "copy_2B7E50ED-56E5-45E1-821C-739055E2DEAD.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "interpretacao-de-texto",
+        "ciencias",
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Sacola dos textinhos",
+      "slug": "sacola-dos-textinhos",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Autorização revenda/Cópia de certificdo de revenda - 2025-01-21T081500.850.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-21T081500.850.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Copy/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0966.jpg",
+          "fileName": "IMG_0966.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0967.jpg",
+          "fileName": "IMG_0967.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0968.jpg",
+          "fileName": "IMG_0968.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0969.jpg",
+          "fileName": "IMG_0969.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0970.jpg",
+          "fileName": "IMG_0970.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0971.jpg",
+          "fileName": "IMG_0971.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0972.jpg",
+          "fileName": "IMG_0972.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0973.jpg",
+          "fileName": "IMG_0973.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Fotos/IMG_0974.jpg",
+          "fileName": "IMG_0974.jpg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Link de edição/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/PDF/Sacola dos textinhos .pdf.pdf",
+          "fileName": "Sacola dos textinhos .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/Sacola dos textinhos/Vídeo/copy_81BBD6E0-B9B6-4DD0-A677-BFB92A5AF2E8.mov",
+          "fileName": "copy_81BBD6E0-B9B6-4DD0-A677-BFB92A5AF2E8.mov",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "decoracao-de-sala"
+      ]
+    },
+    {
+      "title": "Zuzu da Divisão",
+      "slug": "zuzu-da-divisao",
+      "relativeFolderPath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO",
+      "files": [
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/AUTORIZAÇÃO DE REVENDA/Cópia de certificdo de revenda - 2025-01-23T145329.348.png",
+          "fileName": "Cópia de certificdo de revenda - 2025-01-23T145329.348.png",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/COPY/COPY.docx",
+          "fileName": "COPY.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/FOTOS/WhatsApp Image 2024-10-06 at 16.26.07.jpeg",
+          "fileName": "WhatsApp Image 2024-10-06 at 16.26.07.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/FOTOS/WhatsApp Image 2024-10-06 at 16.26.08.jpeg",
+          "fileName": "WhatsApp Image 2024-10-06 at 16.26.08.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/FOTOS/WhatsApp Image 2024-10-06 at 16.26.09.jpeg",
+          "fileName": "WhatsApp Image 2024-10-06 at 16.26.09.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/FOTOS/WhatsApp Image 2024-10-06 at 16.26.13.jpeg",
+          "fileName": "WhatsApp Image 2024-10-06 at 16.26.13.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/FOTOS/WhatsApp Image 2024-10-06 at 16.26.19.jpeg",
+          "fileName": "WhatsApp Image 2024-10-06 at 16.26.19.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/FOTOS/WhatsApp Image 2024-10-06 at 16.26.20.jpeg",
+          "fileName": "WhatsApp Image 2024-10-06 at 16.26.20.jpeg",
+          "kind": "IMAGE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/LINK PARA EDIÇÃO/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/PDF/ZUZU DA DIVISÃO.pdf",
+          "fileName": "ZUZU DA DIVISÃO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Drive pedagógico/Drive Janeiro 2025/ZUZU DA DIVISÃO/VÍDEOS/WhatsApp Video 2024-10-06 at 16.26.22.mp4",
+          "fileName": "WhatsApp Video 2024-10-06 at 16.26.22.mp4",
+          "kind": "VIDEO"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica"
+      ]
+    },
+    {
+      "title": "Caderno de Interpretação de Textos",
+      "slug": "caderno-de-interpretacao-de-textos",
+      "relativeFolderPath": "Ensino Fundamental I/CADERNO DE INTERPRETAÇÃO DE TEXTOS",
+      "files": [
+        {
+          "relativePath": "Ensino Fundamental I/CADERNO DE INTERPRETAÇÃO DE TEXTOS/apostila de leitura e interpretação.pdf",
+          "fileName": "apostila de leitura e interpretação.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Ensino Fundamental I/CADERNO DE INTERPRETAÇÃO DE TEXTOS/interpretação de texto 2° e 3° ano.pdf_20240923_160705_0000.pdf",
+          "fileName": "interpretação de texto 2° e 3° ano.pdf_20240923_160705_0000.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Ensino Fundamental I/CADERNO DE INTERPRETAÇÃO DE TEXTOS/textos diversos_interpretação de texto (1).pdf",
+          "fileName": "textos diversos_interpretação de texto (1).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [
+        "3-ano"
+      ],
+      "matchedSubjects": [
+        "interpretacao-de-texto"
+      ]
+    },
+    {
+      "title": "Combo da Multiplicação",
+      "slug": "combo-da-multiplicacao",
+      "relativeFolderPath": "Ensino Fundamental I/COMBO DA MULTIPLICAÇÃO",
+      "files": [
+        {
+          "relativePath": "Ensino Fundamental I/COMBO DA MULTIPLICAÇÃO/Link editável.docx",
+          "fileName": "Link editável.docx",
+          "kind": "EDITABLE"
+        },
+        {
+          "relativePath": "Ensino Fundamental I/COMBO DA MULTIPLICAÇÃO/Multiplicação com centenas.pdf",
+          "fileName": "Multiplicação com centenas.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Ensino Fundamental I/COMBO DA MULTIPLICAÇÃO/Multiplicação com dezenas.pdf",
+          "fileName": "Multiplicação com dezenas.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Ensino Fundamental I/COMBO DA MULTIPLICAÇÃO/Tabuada interativa (bônus).pdf",
+          "fileName": "Tabuada interativa (bônus).pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "matematica"
+      ]
+    },
+    {
+      "title": "Crachá Cubo",
+      "slug": "cracha-cubo",
+      "relativeFolderPath": "Professores/CRACHÁ CUBO",
+      "files": [
+        {
+          "relativePath": "Professores/CRACHÁ CUBO/Cópia-de-Cópia-de-Inserir-um-título.pdf",
+          "fileName": "Cópia-de-Cópia-de-Inserir-um-título.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "material-do-professor"
+      ]
+    },
+    {
+      "title": "Modelos de Relatórios",
+      "slug": "modelos-de-relatorios",
+      "relativeFolderPath": "Professores/MODELOS DE RELATÓRIOS",
+      "files": [
+        {
+          "relativePath": "Professores/MODELOS DE RELATÓRIOS/FRASES-PARA-RELATÓRIOS.pdf",
+          "fileName": "FRASES-PARA-RELATÓRIOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Professores/MODELOS DE RELATÓRIOS/MODELO-DE-RELATÓRIOS.pdf",
+          "fileName": "MODELO-DE-RELATÓRIOS.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Professores/MODELOS DE RELATÓRIOS/RELATÓRIOS-BERÇÁRIO.pdf",
+          "fileName": "RELATÓRIOS-BERÇÁRIO.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Professores/MODELOS DE RELATÓRIOS/RELATÓRIOS-EDUCAÇÃO-ESPECIAL.pdf",
+          "fileName": "RELATÓRIOS-EDUCAÇÃO-ESPECIAL.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Professores/MODELOS DE RELATÓRIOS/RELATÓRIOS-EDUCAÇÃO-INFANTIL.pdf",
+          "fileName": "RELATÓRIOS-EDUCAÇÃO-INFANTIL.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Professores/MODELOS DE RELATÓRIOS/RELATÓRIOS-ENSINO-FUNDAMENTAL.pdf",
+          "fileName": "RELATÓRIOS-ENSINO-FUNDAMENTAL.pdf",
+          "kind": "PDF"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "material-do-professor"
+      ]
+    },
+    {
+      "title": "Sacola de Textos",
+      "slug": "sacola-de-textos",
+      "relativeFolderPath": "Professores/SACOLA DE TEXTOS",
+      "files": [
+        {
+          "relativePath": "Professores/SACOLA DE TEXTOS/Os animais da vovó .pdf.pdf",
+          "fileName": "Os animais da vovó .pdf.pdf",
+          "kind": "PDF"
+        },
+        {
+          "relativePath": "Professores/SACOLA DE TEXTOS/Untitled document.docx",
+          "fileName": "Untitled document.docx",
+          "kind": "EDITABLE"
+        }
+      ],
+      "matchedCategories": [],
+      "matchedSubjects": [
+        "ciencias",
+        "decoracao-de-sala",
+        "material-do-professor"
+      ]
+    }
+  ]
+}
