@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { confirmOrderPayment } from "@/lib/orders";
+import { createSession } from "@/lib/auth";
 
 /**
  * Webhook fictício de pagamento, usado enquanto Stripe/Mercado Pago não
@@ -19,10 +20,15 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: "orderId ausente" }, { status: 400 });
   }
 
-  await confirmOrderPayment(orderId, {
+  const order = await confirmOrderPayment(orderId, {
     provider: "MANUAL",
     providerEventId: `manual-${orderId}`,
   });
+
+  // Nesse fluxo fictício quem chama o "webhook" é o próprio navegador do
+  // comprador (num provedor real seria uma chamada servidor-a-servidor sem
+  // contexto de sessão) — aproveitamos isso para já deixar a pessoa logada.
+  await createSession(order.userId);
 
   return NextResponse.redirect(new URL(`/pedido/${orderId}`, request.url), 303);
 }

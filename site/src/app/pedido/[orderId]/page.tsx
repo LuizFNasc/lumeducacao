@@ -82,9 +82,16 @@ export default async function OrderPage({ params }: OrderPageProps) {
 
           {order.status === "PAID" && (
             <div className="mt-6 rounded-2xl bg-green-50 p-5 text-sm text-green-800">
-              Pagamento confirmado! O acesso aos materiais foi liberado para{" "}
-              <strong>{order.customerEmail}</strong>. A área &quot;Meus
-              materiais&quot; com os downloads chega na próxima etapa.
+              <p>
+                Pagamento confirmado! O acesso foi liberado para{" "}
+                <strong>{order.customerEmail}</strong>.
+              </p>
+              <Link
+                href="/meus-materiais"
+                className="mt-3 inline-block font-bold text-green-900 underline"
+              >
+                Ver meus materiais →
+              </Link>
             </div>
           )}
 
