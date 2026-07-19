@@ -116,13 +116,12 @@ export default async function ProductPage({ params }: ProductPageProps) {
                 </span>
               </div>
 
-              <button
-                type="button"
-                disabled
-                className="mt-6 w-full rounded-full bg-brand-pink px-6 py-3 text-sm font-bold text-white opacity-60 sm:w-auto"
+              <Link
+                href={`/checkout/${product.slug}`}
+                className="mt-6 inline-block w-full rounded-full bg-brand-pink px-6 py-3 text-center text-sm font-bold text-white transition hover:brightness-105 sm:w-auto"
               >
-                Comprar (checkout em breve)
-              </button>
+                Comprar
+              </Link>
             </div>
           </div>
         </section>
