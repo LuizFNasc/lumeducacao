@@ -219,6 +219,10 @@ model ProductFile {
   mimeType  String?
   sizeBytes BigInt?
 
+  // Caminho relativo à raiz de materiais (pasta lumeducacao/), usado pelo
+  // script de sincronização para localizar o arquivo original sem ambiguidade
+  sourcePath String?
+
   driveFileId String?
   blobKey     String?
   checksum    String?

@@ -342,6 +342,7 @@ async function writeToDatabase() {
     const fileCreates = product.files.map((file) => ({
       kind: file.kind,
       fileName: file.fileName,
+      sourcePath: file.relativePath,
       driveFileId: null,
     }));
 
