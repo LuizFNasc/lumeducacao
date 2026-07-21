@@ -20,6 +20,13 @@ export default function Home() {
 
           <div className="relative mx-auto max-w-6xl px-4 py-20 sm:px-6 sm:py-28">
             <div className="mx-auto max-w-2xl text-center">
+              <a
+                href="/volta-as-aulas"
+                className="mb-4 inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-brand-yellow to-brand-orange px-5 py-2 text-sm font-bold text-brand-ink shadow-sm transition hover:brightness-105"
+              >
+                🎒 Especial Volta às Aulas — conheça a página →
+              </a>
+              <br />
               <span className="inline-flex items-center gap-2 rounded-full bg-brand-turquoise/15 px-4 py-1 text-sm font-bold text-brand-ink">
                 ✏️ Para professores e pais
               </span>

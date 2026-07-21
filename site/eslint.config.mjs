@@ -12,6 +12,9 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Assets estáticos (landing volta-as-aulas usa JS próprio + vendor minificado)
+    "public/**",
+    "src/generated/**",
   ]),
 ]);
 
