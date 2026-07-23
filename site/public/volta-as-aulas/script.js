@@ -241,10 +241,16 @@
     });
   });
 
-  // Mini-cards do painel fundamental
-  gsap.from(".mini-card", {
-    scale: 0.6, opacity: 0, duration: 0.8, stagger: 0.1, ease: "back.out(1.7)",
+  // Capas reais do painel fundamental
+  gsap.from(".fund-cover", {
+    scale: 0.6, opacity: 0, duration: 0.8, stagger: 0.12, ease: "back.out(1.7)",
     scrollTrigger: { trigger: ".feature__panel--fund", start: "top 78%" },
+  });
+
+  // Card de destaque (Palavrinhas Mágicas) na Educação Infantil
+  gsap.from(".feature__accent", {
+    scale: 0.7, opacity: 0, duration: 0.7, ease: "back.out(1.6)",
+    scrollTrigger: { trigger: ".feature__accent", start: "top 85%" },
   });
 
   // Contadores
