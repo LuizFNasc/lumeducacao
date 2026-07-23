@@ -1,11 +1,18 @@
 import { prisma } from "@/lib/prisma";
 import type { PaymentProvider } from "@/generated/prisma/client";
 
+const ADMIN_EMAILS = (process.env.ADMIN_EMAILS ?? "")
+  .split(",")
+  .map((email) => email.trim().toLowerCase())
+  .filter(Boolean);
+
 export async function getOrCreateCustomer(email: string, name?: string) {
+  const role = ADMIN_EMAILS.includes(email.toLowerCase()) ? "ADMIN" : "CUSTOMER";
+
   return prisma.user.upsert({
     where: { email },
-    update: name ? { name } : {},
-    create: { email, name },
+    update: { ...(name ? { name } : {}), role },
+    create: { email, name, role },
   });
 }
 

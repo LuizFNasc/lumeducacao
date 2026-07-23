@@ -46,3 +46,41 @@ export async function getProductBySlug(slug: string) {
 
 export type ProductListItem = Awaited<ReturnType<typeof listProducts>>[number];
 export type ProductDetail = NonNullable<Awaited<ReturnType<typeof getProductBySlug>>>;
+
+// ---------- Admin ----------
+
+export interface AdminProductFilters {
+  status?: "DRAFT" | "PUBLISHED" | "ARCHIVED";
+  query?: string;
+}
+
+export async function listAllProductsForAdmin(filters: AdminProductFilters = {}) {
+  return prisma.product.findMany({
+    where: {
+      status: filters.status,
+      title: filters.query ? { contains: filters.query, mode: "insensitive" } : undefined,
+    },
+    include: { category: true, _count: { select: { files: true } } },
+    orderBy: { updatedAt: "desc" },
+  });
+}
+
+export async function getProductByIdForAdmin(id: string) {
+  return prisma.product.findUnique({
+    where: { id },
+    include: { files: true, subjects: { include: { subject: true } } },
+  });
+}
+
+export interface AdminProductUpdateInput {
+  title: string;
+  description: string;
+  priceCents: number;
+  categoryId: string | null;
+  coverImageUrl: string | null;
+  status: "DRAFT" | "PUBLISHED" | "ARCHIVED";
+}
+
+export async function updateProductForAdmin(id: string, data: AdminProductUpdateInput) {
+  return prisma.product.update({ where: { id }, data });
+}
