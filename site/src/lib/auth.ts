@@ -1,6 +1,7 @@
 import { randomBytes } from "node:crypto";
 import { cookies } from "next/headers";
 import { prisma } from "@/lib/prisma";
+import { getOrCreateCustomer } from "@/lib/orders";
 
 export const SESSION_COOKIE_NAME = "lumeducacao_session";
 const SESSION_DURATION_MS = 30 * 24 * 60 * 60 * 1000; // 30 dias
@@ -40,11 +41,7 @@ export async function consumeMagicLink(token: string) {
 
   await prisma.verificationToken.delete({ where: { token } });
 
-  const user = await prisma.user.upsert({
-    where: { email: verification.identifier },
-    update: {},
-    create: { email: verification.identifier },
-  });
+  const user = await getOrCreateCustomer(verification.identifier);
 
   return createSession(user.id);
 }
